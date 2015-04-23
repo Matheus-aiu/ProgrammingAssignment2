@@ -103,3 +103,12 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+### makeCacheMatrix()
+
+This first function will create a list that can be menipulated from the another function "cacheSolve".
+This list will contain data from the original matrix and the InvertedMatrix
+
+### cacheSolve()
+
+This second function will calculate the inversion for the original matrix manipulating/caching data in the list of makeCacheMatrix function!
